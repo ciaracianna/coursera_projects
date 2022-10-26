@@ -1,5 +1,6 @@
-body {background-color:black;font-family:arial;color:white}
+body {background-color:black;font-family:arial;color:white;}
 h1{color:grey;font-family:verdana}
+canvas { background:#fff; border:1px solid #ccc; width:400px; height:160px }
 
 .maindiv {
     background-color:white;
@@ -10,4 +11,3 @@ h1{color:grey;font-family:verdana}
     border-radius:25px;
     margin: auto;
 }
-
